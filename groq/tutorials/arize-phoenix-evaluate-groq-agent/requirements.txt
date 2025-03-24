@@ -1,0 +1,2 @@
+arize-phoenix>=4.29.0
+openinference-instrumentation-groq>=0.1.3
